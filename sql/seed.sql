@@ -53,6 +53,6 @@ VALUES ("Meme Manager", 75000, 6), ("Meme Distributor", 60000, 6), ("Meme Tester
 INSERT INTO employee (first_name, last_name, role_id)
 VALUES ("Monty", "Python", 1), ("Weird", "Al", "Singer/Songwriter", 3), ("Monster", "McGoo", 6), ("Fozzy", "Bear", 8), ("Girly", "McSue", 10), ("James", "Kuma", 12);
 
-INSERT INTO employee (first_name, last_name, role_id)
+INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES ("John", "Cleese", 2, 1), ("Willy", "Wonka", 2, 1), ("Napoleon", "XIV", 5, 2), ("Witch", "Doctor", 4, 2), ("Raffi", "Sings", 2, 2), ("Crocodile", "Dundee", 7, 3), ("Crocky", "Chomper", 7, 3), ("Dude", "Snarfles", 9, 4), ("Moomoo", "LeGreat", 11, 5), ("Tweeter", "Bot", 13, 6), ("Frank", "Trollington", 14,	6)
 
