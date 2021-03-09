@@ -1,12 +1,10 @@
 {
-  "name": "employeeManagement",
+  "name": "employee_management",
   "version": "1.0.0",
   "description": "Employee management app using Node, Inquirer, and MySQL.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -20,7 +18,9 @@
   },
   "homepage": "https://github.com/maggiemaywilder/employeeManagement#readme",
   "dependencies": {
+    "console.table": "^0.10.0",
     "inquirer": "^8.0.0",
     "mysql": "^2.18.1"
-  }
+  },
+  "devDependencies": {}
 }

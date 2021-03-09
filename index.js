@@ -14,10 +14,10 @@ const start = () => {
             'View employees by manager',
             'View all departments',
             'View all roles',
-            'Update employee role',
             'Add a department',
             'Add a role',
-            
+            'Add employee',
+            'Update employee role',
         ],
     })
     .then((answer) => {
