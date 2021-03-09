@@ -1,10 +1,12 @@
 {
-  "name": "employee_management",
+  "name": "employeeManagement",
   "version": "1.0.0",
   "description": "Employee management app using Node, Inquirer, and MySQL.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +22,5 @@
   "dependencies": {
     "inquirer": "^8.0.0",
     "mysql": "^2.18.1"
-  },
-  "devDependencies": {}
+  }
 }
