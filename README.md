@@ -19,6 +19,11 @@
 
 [Questions](#questions)
 
+![Screengrab](assets/screengrab2.png)
+
+![Screengrab](assets/screengrab4.png)
+
+## [Demonstration video](https://drive.google.com/file/d/1XNVw1A5RCoR3qfsg63vZ_WR7Y6R1Cjlh/view)
 
 ## Description
 
@@ -34,7 +39,7 @@ node index.js
 
 ## Contribution Guidelines
 
-Feel free to contact me through my github or by email.
+Feel free to contact me through my github or by email which can be found below.
 
 ## Testing Instructions
 
